@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hello There!
 🧑 Passionate Web and Software Developer Who Happens to Love Photography<br>🎓 Studying Computer Science and Media @ Stuttgart Media University<br>📫 Contact Me via [Email](mailto:contact@tobias-metzger.de) or Add Me on [LinkedIn](https://www.linkedin.com/in/tobias-metzger/)
 
 ## 🌐 Socials
