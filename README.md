@@ -1,5 +1,5 @@
 # 👋 Hello there!
-🧑 Passionate Web and Software Developer Who Happens to Love Photography<br>🎓 Studying Computer Science and Media @ Stuttgart Media University<br>📫 Contact Me via Email or Add Me on LinkedIn
+🧑 Passionate Web and Software Developer Who Happens to Love Photography<br>🎓 Studying Computer Science and Media @ Stuttgart Media University<br>📫 Contact Me via [Email](mailto:contact@tobias-metzger.de) or Add Me on [LinkedIn](https://www.linkedin.com/in/tobias-metzger/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tobias-metzger) 
